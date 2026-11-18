@@ -1,0 +1,21 @@
+city,state,lat,lon,order_share,road_km,airport_km_dest
+Bengaluru,Karnataka,12.9716,77.5946,0.22,19.1,
+Mumbai,Maharashtra,19.076,72.8777,0.13,986.0,18.2
+Delhi,Delhi,28.6139,77.209,0.1,2081.0,26.9
+Pune,Maharashtra,18.5204,73.8567,0.07,845.0,7.7
+Hyderabad,Telangana,17.385,78.4867,0.07,573.0,32.3
+Chennai,Tamil Nadu,13.0827,80.2707,0.06,343.0,
+Gurugram,Haryana,28.4595,77.0266,0.04,2050.0,17.8
+Kolkata,West Bengal,22.5726,88.3639,0.04,1898.0,13.4
+Noida,Uttar Pradesh,28.5355,77.391,0.03,2102.0,38.6
+Ahmedabad,Gujarat,23.0225,72.5714,0.03,1473.0,10.3
+Kochi,Kerala,9.9312,76.2673,0.03,531.0,
+Mysuru,Karnataka,12.2958,76.6394,0.02,150.0,
+Coimbatore,Tamil Nadu,11.0168,76.9558,0.02,347.0,
+Jaipur,Rajasthan,26.9124,75.7873,0.02,1888.0,13.5
+Chandigarh,Chandigarh,30.7333,76.7794,0.02,2333.0,17.5
+Lucknow,Uttar Pradesh,26.8467,80.9462,0.02,1933.0,14.5
+Goa (Panaji),Goa,15.4909,73.8278,0.02,562.0,46.8
+Indore,Madhya Pradesh,22.7196,75.8577,0.02,1339.0,7.5
+Bhubaneswar,Odisha,20.2961,85.8245,0.02,1457.0,6.6
+Guwahati,Assam,26.1445,91.7362,0.02,2903.0,18.2
